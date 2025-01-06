@@ -16,7 +16,9 @@ Further analysis by a senior cybersecurity professional revealed that the websit
 
 ## Section 3: Recommend one or more remediations for brute force attacks
 
-To enhance protection against brute force attacks, the team plans to implement several security measures. First, they will prevent the reuse of previous passwords, including default ones, during password resets. This step addresses the vulnerability exploited in the attack, where the attacker used a default password to gain access.
+To enhance protection against brute force attacks, the team plans to implement several security measures. 
+
+First, they will prevent the reuse of previous passwords, including default ones, during password resets. This step addresses the vulnerability exploited in the attack, where the attacker used a default password to gain access.
 
 Second, the team will require more frequent password updates. Regular updates reduce the likelihood of unauthorized access since compromised passwords will be rendered obsolete sooner.
 
